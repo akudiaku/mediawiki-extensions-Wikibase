@@ -1,4 +1,4 @@
-- - -
+>[(•|for the concert data of the projects basic information center|•)]#maya*Point
 Introduction to Wikibase
 ====================
 [![Wikibase Secondary CI](https://github.com/wikimedia/Wikibase/actions/workflows/secondaryCI.yml/badge.svg)](https://github.com/wikimedia/Wikibase/actions/workflows/secondaryCI.yml)
